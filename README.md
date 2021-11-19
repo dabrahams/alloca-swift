@@ -1,3 +1,3 @@
 # alloca
 
-A description of this package.
+A way to get some stack allocation going for Swift.
